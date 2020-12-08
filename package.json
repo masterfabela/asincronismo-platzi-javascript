@@ -1,0 +1,12 @@
+{
+  "name": "asincronismo-platzi-javascript",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismos en js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["callbacks", "promise", "async"],
+  "author": "",
+  "license": "MIT"
+}
